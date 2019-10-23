@@ -1,0 +1,160 @@
+{
+    "status":"success",
+    "restaurants":
+    [
+        {
+            "id":10011,
+            "name":"Punjabi Park",
+            "cuisines":"North Indian, Chinese, Continental",
+            "pricePerPerson":300,
+            "eta":23,
+            "rating":4.1,
+            "address":"#217 1st main road Whitefield, Bangalore",
+            "imageUrl":"restaurant.jpeg"
+        },{
+            "id":10012,
+            "name":"Udupi Park",
+            "cuisines":"South Indian, Chinese, Continental, North Indian",
+            "pricePerPerson":250,
+            "eta":20,
+            "rating":3.9,
+            "address":"#218 2nd main road Brookfield, Bangalore",
+            "imageUrl":"udupi.jpeg"
+        },{
+            "id":10013,
+            "name":"Little Italy",
+            "cuisines":"Italian",
+            "pricePerPerson":800,
+            "eta":35,
+            "rating":4.5,
+            "address":"#101 3rd main road Indiranagar, Bangalore",
+            "imageUrl":"italian.jpeg"
+        },{
+            "id":10014,
+            "name":"Dominos",
+            "cuisines":"Itialian, Fast Food",
+            "pricePerPerson":200,
+            "eta":15,
+            "rating":4.0,
+            "address":"#12 1st main road Whitefield, Bangalore",
+            "imageUrl":"dominos.jpeg"
+        },{
+            "id":10015,
+            "name":"Burger King",
+            "cuisines":"Fast Food",
+            "pricePerPerson":250,
+            "eta":10,
+            "rating":4.4,
+            "address":"#2 1st main road Whitefield, Bangalore",
+            "imageUrl":"burgerKing.jpeg"
+        },{
+            "id":10016,
+            "name":"The Punjabi Park",
+            "cuisines":"North Indian, Chinese, Continental, Italian",
+            "pricePerPerson":400,
+            "eta":40,
+            "rating":3.0,
+            "address":"#21 1st main road Whitefield, Bangalore",
+            "imageUrl":"restaurant.jpeg"
+        },{
+            "id":10017,
+            "name":"Sri Udupi Park",
+            "cuisines":"North Indian, Chinese, Continental",
+            "pricePerPerson":200,
+            "eta":30,
+            "rating":4.0,
+            "address":"#217 1st main road 2nd cross Whitefield, Bangalore",
+            "imageUrl":"udupi.jpeg"
+        },{
+            "id":10018,
+            "name":"Cafe Noir",
+            "cuisines":"Chinese, Continental, Itlalian",
+            "pricePerPerson":500,
+            "eta":45,
+            "rating":4.6,
+            "address":"#17 1st main road 2nd cross Whitefield, Bangalore",
+            "imageUrl":"cafe.jpeg"
+        },{
+            "id":10019,
+            "name":"Dhadoom",
+            "cuisines":"Chinese, Continental, Italian",
+            "pricePerPerson":300,
+            "eta":30,
+            "rating":3.0,
+            "address":"VR Mall 1st main road Whitefield, Bangalore",
+            "imageUrl":"restaurant.jpeg"
+        },{
+            "id":10020,
+            "name":"Nagaraj",
+            "cuisines":"South Indian, Chinese, Continental",
+            "pricePerPerson":400,
+            "eta":20,
+            "rating":3.0,
+            "address":"VR Mall 1st main road Whitefield, Bangalore",
+            "imageUrl":"southIndian.jpeg"
+        },{
+            "id":10021,
+            "name":"Mc Donalds",
+            "cuisines":"Fast Food",
+            "pricePerPerson":300,
+            "eta":20,
+            "rating":4.7,
+            "address":"VR Mall 1st main road Whitefield, Bangalore",
+            "imageUrl":"mcDonalds.jpeg"
+        },{
+            "id":10022,
+            "name":"Keventers",
+            "cuisines":"Shakes",
+            "pricePerPerson":200,
+            "eta":21,
+            "rating":4.7,
+            "address":"VR Mall 1st main road Whitefield, Bangalore",
+            "imageUrl":"keventers.jpeg"
+        },{
+            "id":10023,
+            "name":"Delhi Kitchen",
+            "cuisines":"North Indian, Chinese, Continental",
+            "pricePerPerson":30,
+            "eta":30,
+            "rating":4.5,
+            "address":"VR Mall 1st main road Whitefield, Bangalore",
+            "imageUrl":"restaurant.jpeg"
+        },{
+            "id":10024,
+            "name":"Subway",
+            "cuisines":"North Indian, Chinese, Continental",
+            "pricePerPerson":200,
+            "eta":30,
+            "rating":4.8,
+            "address":"Phoenix Mall Whitefield, Bangalore",
+            "imageUrl":"subway.jpeg"
+        },{
+            "id":10025,
+            "name":"Dunkin Donuts",
+            "cuisines":"Fast Food",
+            "pricePerPerson":300,
+            "eta":40,
+            "rating":4.0,
+            "address":"Phoenix Mall Whitefield, Bangalore",
+            "imageUrl":"dunkins.jpeg"
+        },{
+            "id":10026,
+            "name":"Cold Cream",
+            "cuisines":"Ice Cream",
+            "pricePerPerson":200,
+            "eta":30,
+            "rating":1.7,
+            "address":"Phoenix Mall Whitefield, Bangalore",
+            "imageUrl":"iceCream.jpeg"
+        },{
+            "id":10027,
+            "name":"Salt",
+            "cuisines":"North Indian, Chinese, Continental",
+            "pricePerPerson":650,
+            "eta":50,
+            "rating":4.4,
+            "address":"Phoenix Mall Whitefield, Bangalore",
+            "imageUrl":"salt.jpeg"
+        }
+    ]
+}
