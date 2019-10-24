@@ -50,7 +50,6 @@ extension DetailsViewController: UITableViewDelegate, UITableViewDataSource {
         sender.isEnabled = false
         senderButton = sender
         configureDatePicker()
-        
     }
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {

@@ -44,7 +44,7 @@ class DetailsViewController: UIViewController {
     }
     //MARK: Configure DatePicker
     func configureDatePicker(){
-        datePicker.frame = CGRect(x: 0, y: UIScreen.main.bounds.size.height - 300, width: UIScreen.main.bounds.size.width, height: 216)
+        datePicker.frame = CGRect(x: 0, y: UIScreen.main.bounds.size.height - 200, width: UIScreen.main.bounds.size.width, height: 210)
         datePicker.datePickerMode = .dateAndTime
         datePicker.minimumDate = Date()
         datePicker.minuteInterval = 30
@@ -52,7 +52,7 @@ class DetailsViewController: UIViewController {
         self.view.addSubview(datePicker)
         
         //Set up toolBar
-        toolbar = UIToolbar(frame: CGRect(x: 0, y: UIScreen.main.bounds.size.height - 300, width: UIScreen.main.bounds.size.width, height: 50))
+        toolbar = UIToolbar(frame: CGRect(x: 0, y: UIScreen.main.bounds.size.height - 200, width: UIScreen.main.bounds.size.width, height: 50))
         let doneButton = UIBarButtonItem(title: "Done", style: .plain, target: self, action: #selector(doneDatePicker));
         let spaceButton = UIBarButtonItem(barButtonSystemItem: UIBarButtonItem.SystemItem.flexibleSpace, target: nil, action: nil)
         let cancelButton = UIBarButtonItem(title: "Cancel", style: .plain, target: self, action: #selector(cancelDatePicker));
